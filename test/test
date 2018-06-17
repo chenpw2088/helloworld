@@ -1,1 +1,3 @@
 test
+
+Pycham 中 git配置ssh，要选择native，而不是 build-in 否则git clone 会失败的
